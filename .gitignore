@@ -1,0 +1,15 @@
+# Credentials - never commit these
+config.py
+
+# Output folder
+output/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# IDE
+.vscode/
+.idea/
